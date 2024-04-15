@@ -1,0 +1,9 @@
+Notation: *+ fixed bug
+          ++ new feature
+          o+ optimization
+           + minor modifications
+
+The following modificitons are mainy made by Gao.
+
+Mon April 15, 2024
++ output 2D pressure and temperature data (nz,nx).  
